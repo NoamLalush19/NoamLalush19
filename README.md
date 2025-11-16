@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Noam  
+### 💻 Developer | Security Student | C#, Python, Dart
 
-<!--
-**NoamLalush19/NoamLalush19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on network tools & sniffer experiments  
+- 🌱 Learning: Cyber, Python, Flutter  
+- ⚡ Fun fact: I love breaking things so I can learn how to protect them 😄
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** C#, Python, Dart
+- **Tools:** Wireshark, Linux, Git, CMD, Powershell
+- **Cyber:** Aircrack-ng, Metasploit, Burp Suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Gmail: example@gmail.com

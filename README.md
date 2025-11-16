@@ -9,28 +9,28 @@ I break things — so I can learn how to defend them 😄
 ## 🛠 Tech Stack
 
 ### 🔹 Languages  
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg =40x40)  
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg =40x40)  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg =40x40)  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =40x40)  
-![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg =40x40)  
-![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg =40x40)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 
 ---
 
 ## 🔹 Operating Systems  
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg =40x40)  
-![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg =40x40)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 
 ---
 
 ## 🔹 Cyber Security  
-![Wireshark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg =40x40)  
-![Nmap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg =40x40)  
-![Metasploit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg =40x40)  
-![Burp Suite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg =40x40)  
-![Kali Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg =40x40)  
-![Aircrack-ng](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aircrack/aircrack-original.svg =40x40)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aircrack/aircrack-original.svg" width="40" height="40"/>
 
 ---
 
@@ -42,14 +42,14 @@ I break things — so I can learn how to defend them 😄
 ---
 
 ## 🔧 Tools & Environments  
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =40x40)  
-![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg =40x40)  
-![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg =40x40)  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =40x40)  
-![PowerShell](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg =40x40)  
-![CMD](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg =40x40)  
-![VMware](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg =40x40)  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg =40x40)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 
 ---
 

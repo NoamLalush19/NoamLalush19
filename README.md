@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Noam  
 ### 💻 Developer & Cyber Security Student
 
-I'm passionate about programming, networking, and understanding how systems work under the hood.  
-I break stuff → so I can learn how to defend it 😄  
+I'm passionate about programming, networking, operating systems, and cybersecurity.  
+I break things — so I can learn how to defend them 😄
 
 ---
 
@@ -11,27 +11,29 @@ I break stuff → so I can learn how to defend it 😄
 ### 🔹 Languages  
 - **C#**  
 - **Python**  
-- **Dart (Flutter)**  
-- **Bash / Shell**
+- **C**  
+- **C++**  
+- **Dart (Flutter)**
 
 ### 🔹 Operating Systems  
 - **Linux (Ubuntu, Kali, Debian)**  
 - **Windows**
 
 ### 🔹 Cyber Security  
-- Network Analysis (Sniffing, Packet Capture)  
+- Network Sniffing & Packet Analysis  
 - Wireshark / Tshark  
 - Aircrack-ng  
 - Metasploit  
 - Burp Suite  
 - Nmap  
+- Vulnerability Scanning  
+- Privilege Escalation (Linux & Windows)  
 - Basic Reverse Engineering  
-- Privilege Escalation (Linux/Windows)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
@@ -42,11 +44,11 @@ I break stuff → so I can learn how to defend it 😄
 - Visual Studio  
 - PyCharm  
 - Git & GitHub  
-- CMD / PowerShell / Bash  
+- CMD / PowerShell  
 - VirtualBox / VMware  
 - Docker (Basics)
 
 ---
 
 ## 📫 Contact  
-Feel free to reach out for collaborations, projects, or cyber questions!  
+Feel free to reach out for collaborations, projects, or cyber questions!
